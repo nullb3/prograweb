@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\BackEnd2\bin\Debug\BackEnd2.dll
+C:\Users\Lenovo\source\repos\BackEnd2\bin\Debug\BackEnd2.pdb
+C:\Users\Lenovo\source\repos\BackEnd2\obj\Debug\BackEnd2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BackEnd2\obj\Debug\BackEnd2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BackEnd2\obj\Debug\BackEnd2.dll
+C:\Users\Lenovo\source\repos\BackEnd2\obj\Debug\BackEnd2.pdb
