@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BackEnd2.Logica.Entidades;
+using BackEnd2.Modelos;
 
-namespace BackEnd2.Modelos.Request
+namespace BackEnd2.Modelos
 {
     public class ReqInsertarPublicacion
     {
-        Publicacion publicacion = new Publicacion();
+        public Publicacion publicacion { get; set; }
     }
 }

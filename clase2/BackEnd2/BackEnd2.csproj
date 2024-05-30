@@ -47,12 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccesoDatos\DataClasses1.designer.cs">
+    <Compile Include="AccesoDatos\conexionLinq.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>DataClasses1.dbml</DependentUpon>
+      <DependentUpon>conexionLinq.dbml</DependentUpon>
     </Compile>
-    <Compile Include="Logica\Entidades\Publicacion.cs" />
+    <Compile Include="Modelos\Entidades\Publicacion.cs" />
     <Compile Include="Logica\LogPublicacion.cs" />
     <Compile Include="Modelos\Request\ReqInsertarPublicacion.cs" />
     <Compile Include="Modelos\Response\ResBase.cs" />
@@ -66,13 +66,13 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <None Include="AccesoDatos\DataClasses1.dbml">
+    <None Include="AccesoDatos\conexionLinq.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <LastGenOutput>conexionLinq.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="AccesoDatos\DataClasses1.dbml.layout">
-      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    <None Include="AccesoDatos\conexionLinq.dbml.layout">
+      <DependentUpon>conexionLinq.dbml</DependentUpon>
     </None>
     <None Include="app.config" />
     <None Include="packages.config" />

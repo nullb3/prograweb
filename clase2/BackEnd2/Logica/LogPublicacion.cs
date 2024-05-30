@@ -3,18 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BackEnd2.Logica.Modelos.Request;
-using BackEnd2.Modelos.Response;
+using BackEnd2.Modelos;
+using BackEnd2.AccesoDatos;
 
 namespace BackEnd2.Logica
 {
-    internal class LogPublicacion
+    public class LogPublicacion
     {
         public ResInsertarPublicacion insertarPublicacion(ReqInsertarPublicacion req)
         {
             ResInsertarPublicacion res = new ResInsertarPublicacion();
             try
             {
+                //Validaciones
                 if (req == null)
                 {
                     res.resultado = false;
@@ -47,7 +48,7 @@ namespace BackEnd2.Logica
                     string errorDescripcion = "";
 
                     conexionLinqDataContext miLinq = new conexionLinqDataContext();
-                    miLinq.SP_INGRESAR_PUBLICACION(null);
+                    miLinq.SP_INGRESAR_PUBLICACION(req.publicacion.temaId, req.publicacion.usuarioId, req.publicacion.titulo, req.publicacion.mensaje, ref returnId, ref errorId, ref errorDescripcion);
                     if (returnId <= 0)
                     {
                         res.resultado = false;
@@ -57,6 +58,8 @@ namespace BackEnd2.Logica
                         // OK
                         res.resultado = true;
                     }
+                }
+            }
             catch (Exception ex)
             {
                 res.resultado = false;
