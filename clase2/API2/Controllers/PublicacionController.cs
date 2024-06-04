@@ -12,8 +12,11 @@ namespace API.Controllers
     public class PublicacionController : ApiController
     {
         // POST api/values
-        public BackEnd2.Modelos.ResInsertarPublicacion Post(BackEnd2.Modelos.ReqInsertarPublicacion req)
+        public ResInsertarPublicacion Post(ReqInsertarPublicacion req)
         {
+            [System.Web.Http.HttpPost]
+            [System.Web.Http.Route("api/publicacion/ingresarpublicacion")]
+            
             return new LogPublicacion().insertarPublicacion(req);
         }
     }
