@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\obj\Debug\BackEnd3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\obj\Debug\BackEnd3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase5\BackEnd3\obj\Debug\BackEnd3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase5\BackEnd3\obj\Debug\BackEnd3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase5\BackEnd3\bin\Debug\clase4.dll
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase5\BackEnd3\bin\Debug\clase4.pdb
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase5\BackEnd3\obj\Debug\clase4.dll
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase5\BackEnd3\obj\Debug\clase4.pdb
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\BackEnd3\obj\Debug\BackEnd3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\BackEnd3\obj\Debug\BackEnd3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\BackEnd3\obj\Debug\clase4.dll
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\BackEnd3\obj\Debug\clase4.pdb
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\BackEnd3\bin\Debug\clase4.dll
+C:\Users\Lenovo\Documents\GitHub\prograweb\clase4\BackEnd3\bin\Debug\clase4.pdb

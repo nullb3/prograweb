@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\modelos\\response\\reslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\response\\reslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\logica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:logica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\modelos\\request\\reqlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\request\\reqlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\accesodatos\\conexionlinq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:accesodatos\\conexionlinq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E10E982-A150-4411-A0FC-ABB10ECF77B3}|..\\API3\\API3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\api3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\modelos\\request\\reqagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\request\\reqagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E10E982-A150-4411-A0FC-ABB10ECF77B3}|..\\API3\\API3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\api3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\backend3\\modelos\\response\\resagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\response\\resagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E10E982-A150-4411-A0FC-ABB10ECF77B3}|..\\API3\\API3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\api3\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\accesodatos\\conexionlinq.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:accesodatos\\conexionlinq.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Controllers\\ValuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Logica\\LogUsuario.cs",
+              "RelativeDocumentMoniker": "Logica\\LogUsuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Logica\\LogUsuario.cs",
+              "RelativeToolTip": "Logica\\LogUsuario.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAowF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:02:02.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReqAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Request\\ReqAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Request\\ReqAgregarUsuario.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqAgregarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:37:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReqLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Request\\ReqLogin.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqLogin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Request\\ReqLogin.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:12:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\API3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\API3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\API3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\API3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:17.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Response\\ResLogin.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResLogin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Response\\ResLogin.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResLogin.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:15:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Response\\ResBase.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResBase.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Response\\ResBase.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:39:37.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:14:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexionLinq.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\AccesoDatos\\conexionLinq.designer.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\conexionLinq.designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\AccesoDatos\\conexionLinq.designer.cs",
+              "RelativeToolTip": "AccesoDatos\\conexionLinq.designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAkwE8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:08:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\API3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\API3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\API3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\API3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Response\\ResAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\Modelos\\Response\\ResAgregarUsuario.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResAgregarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:05:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\API3\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "..\\API3\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\API3\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "..\\API3\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:19.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "conexionLinq.dbml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\AccesoDatos\\conexionLinq.dbml",
+              "RelativeDocumentMoniker": "AccesoDatos\\conexionLinq.dbml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\BackEnd3\\AccesoDatos\\conexionLinq.dbml",
+              "RelativeToolTip": "AccesoDatos\\conexionLinq.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-06-07T02:08:32.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\clase5\\Apitest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\clase5\\Apitest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T02:10:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\clase5\\Apitest\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "..\\..\\clase5\\Apitest\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:36:11.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\..\\clase5\\Apitest\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\..\\clase5\\Apitest\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:36:00.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\clase5\\Apitest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\clase5\\Apitest\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T02:21:37.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\clase5\\Apitest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase5\\Apitest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\clase5\\Apitest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T02:21:41.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

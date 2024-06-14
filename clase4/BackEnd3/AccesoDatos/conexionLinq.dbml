@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="bdForo" Class="conexionLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=THEARKONE\SQLEXPRESS;Initial Catalog=bdForo;Integrated Security=True;Encrypt=False" SettingsObjectName="clase4.Properties.Settings" SettingsPropertyName="bdForoConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SP_INGRESAR_USUARIO" Method="SP_INGRESAR_USUARIO">
+    <Parameter Name="NOMBRE" Parameter="nOMBRE" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="APELLIDOS" Parameter="aPELLIDOS" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="CORREO_ELECTRONICO" Parameter="cORREO_ELECTRONICO" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="PASSWORD" Parameter="pASSWORD" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="NUMEROVERIFICACION" Parameter="nUMEROVERIFICACION" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="IDRETURN" Parameter="iDRETURN" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_Login" Method="sp_Login">
+    <Parameter Name="CORREO_ELECTRONICO" Parameter="cORREO_ELECTRONICO" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="PASSWORD" Parameter="pASSWORD" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="id_usuario" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="estado" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="nombre" Type="System.String" DbType="NVarChar(50)" Direction="InOut" />
+    <Parameter Name="apellidos" Type="System.String" DbType="NVarChar(50)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

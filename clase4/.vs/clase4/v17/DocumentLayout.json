@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\modelos\\response\\resagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\response\\resagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\modelos\\request\\reqagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\request\\reqagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\clase4\\logica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A274C5A-6E1F-43BA-82B0-26FC04CBEF2A}|BackEnd3.csproj|solutionrelative:logica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Response\\ResBase.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResBase.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Response\\ResBase.cs*",
+              "RelativeToolTip": "Modelos\\Response\\ResBase.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:31:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Response\\ResAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Response\\ResAgregarUsuario.cs*",
+              "RelativeToolTip": "Modelos\\Response\\ResAgregarUsuario.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:30:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReqAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Request\\ReqAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Request\\ReqAgregarUsuario.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqAgregarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:28:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:20:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Logica\\LogUsuario.cs",
+              "RelativeDocumentMoniker": "Logica\\LogUsuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\clase4\\Logica\\LogUsuario.cs",
+              "RelativeToolTip": "Logica\\LogUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:15:46.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
