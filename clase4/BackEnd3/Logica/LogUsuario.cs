@@ -86,59 +86,58 @@ namespace BackEnd3.Logica
             return res;
 
         }
-        public ResLogin loginUsuario(ReqLogin req2)
+        public ResLogin loginUsuario(ReqLogin req)
         {
-            ResLogin res2 = new ResLogin();
+            ResLogin res = new ResLogin();
             try
             {
                 //Validaciones
-                if (req2 == null)
+                if (req == null)
                 {
-                    res2.resultado = false;
-                    res2.error = "Bad Request";
+                    res.resultado = false;
+                    res.error = "Bad Request";
                 }
-                else if (String.IsNullOrEmpty(req2.usuario2.correo))
+                else if (String.IsNullOrEmpty(req.correo))
                 {
-                    res2.resultado = false;
-                    res2.error = "Correo electronico faltante.";
+                    res.resultado = false;
+                    res.error = "Correo electronico faltante.";
 
                 }
-                else if (String.IsNullOrEmpty(req2.usuario2.contrasena))
+                else if (String.IsNullOrEmpty(req.contrasena))
                 {
-                    res2.resultado = false;
-                    res2.error = "Contrasena faltante.";
+                    res.resultado = false;
+                    res.error = "Contrasena faltante.";
 
                 }
                 else
                 {
                     int? usuarioId = 0;
                     int? estado = 0;
-                    int? returnId = 0;
-                    int? errorId = 0;
-                    string errorDescripcion = "";
                     string nombre = "";
                     string apellidos = "";
 
                     conexionLinqDataContext LinqLog = new conexionLinqDataContext();
-                    LinqLog.sp_Login(req2.usuario2.correo, req2.usuario2.contrasena, ref usuarioId, ref estado, ref nombre, ref apellidos);
-                    if (returnId <= 0 || returnId == null){
-                        res2.resultado = false;
-                        res2.error = "Error en base datos";
+                    LinqLog.sp_Login(req.correo, req.contrasena, ref usuarioId, ref estado, ref nombre, ref apellidos);
+                    if (usuarioId <= 0 || usuarioId == null){
+                        res.resultado = false;
+                        res.error = "Usuario o contrasena incorrectos";
                     }
                     else{
                         // TODO BIEN
-                        res2.resultado = true;
+                        res.resultado = true;
+                        res.nombre = nombre;
+                        res.apellidos = apellidos;
                     }
                 }
 
             }
             catch (Exception ex){
-                res2.resultado = false;
-                res2.error = "500 - ERROR INTERNO!!!";
+                res.resultado = false;
+                res.error = "500 - ERROR INTERNO!!!";
 
             }
 
-            return res2;
+            return res;
 
         }
     }

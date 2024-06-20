@@ -8,6 +8,7 @@ namespace BackEnd3.Modelos
 {
     public class ReqLogin
     {
-        public Usuario usuario2 { get; set; }
+        public string correo { get; set; }
+        public string contrasena { get; set; }
     }
 }
