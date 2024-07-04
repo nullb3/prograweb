@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\examenprograweb1\\backendexamen\\logica\\logestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:logica\\logestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\logica\\lognota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:logica\\lognota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\response\\resobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\response\\resobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\entidades\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\entidades\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\response\\resinsertarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\response\\resinsertarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\request\\reqobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\request\\reqobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3064416F-71E9-4ACE-A75A-324820E51E74}|..\\APIExamen\\APIExamen.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\examenprograweb1\\apiexamen\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\request\\reqinsertarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\request\\reqinsertarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\request\\reqinsertarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\request\\reqinsertarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\response\\resinsertarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\response\\resinsertarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|BackEnd.csproj|solutionrelative:modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3064416F-71E9-4ACE-A75A-324820E51E74}|..\\APIExamen\\APIExamen.csproj|c:\\users\\lenovo\\documents\\github\\prograweb\\examenprograweb1\\apiexamen\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\accesodatos\\conexionlinq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:accesodatos\\conexionlinq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\logica\\lognota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:logica\\lognota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\entidades\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\entidades\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\request\\reqobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\request\\reqobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\request\\reqinsertarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\request\\reqinsertarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\request\\reqinsertarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\request\\reqinsertarestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\response\\resobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\response\\resobtenernotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D21757C-72B0-4E1C-AFA8-581DD7E4EA4C}|examenPrograWeb1.csproj|solutionrelative:modelos\\response\\resbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogNota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Logica\\LogNota.cs",
+              "RelativeDocumentMoniker": "Logica\\LogNota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Logica\\LogNota.cs",
+              "RelativeToolTip": "Logica\\LogNota.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:23:20.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Nota.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Nota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Nota.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Nota.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:54.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResInsertarEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResInsertarEstudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResInsertarEstudiante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResInsertarEstudiante.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResInsertarEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:21:44.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Estudiante.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Estudiante.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:23:05.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqObtenerNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqObtenerNotas.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqObtenerNotas.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqObtenerNotas.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqObtenerNotas.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Logica\\LogEstudiante.cs",
+              "RelativeDocumentMoniker": "Logica\\LogEstudiante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Logica\\LogEstudiante.cs",
+              "RelativeToolTip": "Logica\\LogEstudiante.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:33:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResObtenerNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResObtenerNotas.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResObtenerNotas.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResObtenerNotas.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResObtenerNotas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\APIExamen\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "..\\APIExamen\\Controllers\\NotasController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\APIExamen\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "..\\APIExamen\\Controllers\\NotasController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:37:10.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReqInsertarEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReqInsertarNota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarNota.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqInsertarNota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarNota.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqInsertarNota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResInsertarNota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResInsertarNota.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResInsertarNota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResInsertarNota.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResInsertarNota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResBase.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResBase.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResBase.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:21:40.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\APIExamen\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "..\\APIExamen\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\APIExamen\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "..\\APIExamen\\Controllers\\EstudianteController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:13:54.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogNota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Logica\\LogNota.cs",
+              "RelativeDocumentMoniker": "Logica\\LogNota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Logica\\LogNota.cs",
+              "RelativeToolTip": "Logica\\LogNota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:33:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "conexionLinq.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\AccesoDatos\\conexionLinq.designer.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\conexionLinq.designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\AccesoDatos\\conexionLinq.designer.cs",
+              "RelativeToolTip": "AccesoDatos\\conexionLinq.designer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAYwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:32:40.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Estudiante.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:34:47.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Nota.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Nota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Entidades\\Nota.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:35:01.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReqObtenerNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqObtenerNotas.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqObtenerNotas.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqObtenerNotas.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqObtenerNotas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:44:01.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResObtenerNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResObtenerNotas.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResObtenerNotas.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResObtenerNotas.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResObtenerNotas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:45:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReqInsertarNota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarNota.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqInsertarNota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarNota.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqInsertarNota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:44:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReqInsertarEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqInsertarEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:43:35.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResBase.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResBase.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\prograweb\\examenPrograWeb1\\BackEndExamen\\Modelos\\Response\\ResBase.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:46:15.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="bdNotas" Class="conexionLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=THEARKONE\SQLEXPRESS;Initial Catalog=bdNotas;Integrated Security=True;Encrypt=False" SettingsObjectName="examenPrograWeb1.Properties.Settings" SettingsPropertyName="bdNotasConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.InsertarEstudiante" Method="InsertarEstudiante">
+    <Parameter Name="Nombre" Parameter="nombre" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Carrera" Parameter="carrera" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="IDRETURN" Parameter="iDRETURN" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertarNota" Method="InsertarNota">
+    <Parameter Name="EstudianteId" Parameter="estudianteId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Curso" Parameter="curso" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Nota" Parameter="nota" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IDRETURN" Parameter="iDRETURN" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ObtenerNotas" Method="ObtenerNotas">
+    <Parameter Name="EstudianteId" Parameter="estudianteId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ERRORID" Parameter="eRRORID" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="ERRORDESCRIPCION" Parameter="eRRORDESCRIPCION" Type="System.String" DbType="NVarChar(MAX)" Direction="InOut" />
+    <ElementType Name="ObtenerNotasResult">
+      <Column Name="Curso" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nota" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

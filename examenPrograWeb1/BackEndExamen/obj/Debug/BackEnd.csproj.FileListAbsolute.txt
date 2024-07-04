@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\bin\Debug\examenPrograWeb1.dll.config
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\bin\Debug\examenPrograWeb1.dll
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\bin\Debug\examenPrograWeb1.pdb
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\obj\Debug\examenPrograWeb1.dll
+C:\Users\Lenovo\Documents\GitHub\prograweb\examenPrograWeb1\BackEndExamen\obj\Debug\examenPrograWeb1.pdb

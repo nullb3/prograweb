@@ -1,0 +1,65 @@
+<!DOCTYPE html> <!--Indicates that this is an HTML5 page, without plugins-->
+<html lang="en"> <!--Indicates the page language-->
+<html> <!--Dictates that this is an HTML file-->
+    <head>
+        <title>PrograWeb Semana 5 Formulario</title>
+        <script src="core10.js"></script>
+    </head>
+    <body>
+        <a href="#tabla">Ir a tabla</a><br>
+        <a href="#lista">Ir a lista</a><br>
+
+        <h1 id="formulario" style="text-align: center;">Welcome to Formulario</h1>
+        <form style="text-align: center;" action="backend.html" method="post">
+            <label for="txtNombre">Nombre</label>
+            <input type="text" name="nombre" id="txtNombre" placeholder="Su nombre aqui"/>
+            <br></br>
+            <label for="txtApellidos">Apellidos</label>
+            <input type="text" name="apellidos" id="txtApellidos" placeholder="Sus apellidos aqui"/>
+            <br></br>
+            <label for="txtSexo">Sexo</label>
+            <input type="radio" id="txtSexo">Masculino</input>
+            <input type="radio" id="txtSexo">Femenino</input>
+            <br></br>
+            <textarea style="resize: none;" cols="20" rows="5" id="txtComentarios" placeholder="Sus comentarios aqui"></textarea>
+            <br></br>
+            <label for="email">Email</label>
+            <input type="email" id="email"></input>
+            <br></br>
+            <label for pass>Contraseña</label>
+            <input type="password" id="pass"></input>
+            <br></br>
+            <input type="file"/>
+            <hr></hr>
+            <input type="reset">
+            <input type="submit">
+        </form>
+        <br></br>
+        <table id="tabla" border="1px" style="text-align: center;">
+            <thead>Usuarios</thead>
+            <tbody>
+                <tr>
+                    <th>Nombres</th>
+                    <th>Apellidos</th>
+                    <th>Registros</th>
+                </tr>
+                <tr>
+                    <td>44</td>
+                    <td>33</td>
+                    <td>22</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Nombres</td>
+                    <td>Apellidos</td>
+                    <td>Registros</td>
+                </tr>
+            </tfoot>
+        </table>
+        <br></br>
+        <p style="text-align: center;"><a href="#formulario">Ir al inicio</a><br></p><br>
+        <img style="display: block; margin: auto;" height="50" width="50" alt="Hi, this is the .NET logo" src="resources\NET.icon.png">
+        <p style="text-align: center;"><a href="index.html">Ir a Index</a></p>
+    </body>
+</html>
