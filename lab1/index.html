@@ -1,0 +1,194 @@
+<!DOCTYPE html> <!--Indicates that this is an HTML5 page, without plugins-->
+<html lang="en"> <!--Indicates the page language-->
+<html> <!--Dictates that this is an HTML file-->
+
+<head>
+    <title>Index: L1 Portafolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+</head>
+
+<!--NavBar-->
+
+<body class="bg-dark text-white" style="padding-top: 56px;">
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+        <div class="container-fluid">
+            <img src="images/blessingcoin.gif" alt="Nullb3 Spin" height="50" class="d-inline-block align-text-top">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="frontend.html">FrontEnd</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="backend.html">BackEnd</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="projects.html">Proyectos y Ejercicios</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="contact.html">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!--Carousel-->
+    <div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4"
+                aria-label="Slide 5"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="images/index.jpg" class="d-block w-100" alt="Carousel Index Background">
+                <div class="overlay"></div>
+                <img src="images/blessingm.png" class="overlay-image" alt="Carousel Index Image">
+                <div class="carousel-caption">
+                    <h1>¡BIENVENIDO!</h1>
+                    <p class="text-white fs-4">Este es mi portafolio para el laboratorio de Semana 8 y 9 del curso de Progra Web, ¡Espero
+                        te guste!</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="images/frontend.jpeg" class="d-block w-100" alt="Carousel FrontEnd Background">
+                <div class="overlay"></div>
+                <img src="images/frontendicon.png" class="overlay-image" alt="Carousel FrontEnd Image">
+                <div class="carousel-caption">
+                    <h1>EXPLORA NUESTRA SECCIÓN DE FRONTEND</h1>
+                    <p class="text-white fs-4">En dicha sección podrás encontrar los conocimientos adquiridos en HTML,
+                        CSS3 y Bootstrap hasta la fecha.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="images/backend.jpeg" class="d-block w-100" alt="Carousel BackEnd Background">
+                <div class="overlay"></div>
+                <img src="images/backendicon.png" class="overlay-image" alt="Carousel BackEnd Image">
+                <div class="carousel-caption">
+                    <h1>EXPLORA NUESTRA SECCIÓN DE BACKEND</h1>
+                    <p class="text-white fs-4">Por ahí encontrarás tecnologías de BackEnd vistas, como Visual Studio C#,
+                        capas de acceso a datos con LINQ, capa de entidades, capa de lógica, y desarrollo de APIs en
+                        ASP.NET.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="images/projects.jpg" class="d-block w-100" alt="Carousel Projects Background">
+                <div class="overlay"></div>
+                <img src="images/projectsicon.png" class="overlay-image" alt="Carousel Projects Image">
+                <div class="carousel-caption">
+                    <h1>MIRA PROYECTOS Y EJERCICIOS PREVIOS</h1>
+                    <p class="text-white fs-4">Compilación de proyectos y ejercicios realizados, tanto de las
+                        tecnologías FrontEnd y BackEnd.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="images/contact.jpg" class="d-block w-100" alt="Carousel Contact Background">
+                <div class="overlay"></div>
+                <img src="images/armando.jpg" class="overlay-image circle-image" alt="Carousel Contact Image">
+                <div class="carousel-caption">
+                    <h1>¡CONTÁCTANOS!</h1>
+                    <p class="text-white fs-4">¿Tienes algo que decir o preguntar? ¡Házlo saber y escríbenos un mensaje!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <!-- Content Section -->
+    <div class="container mt-5 content-section">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <img src="images/index.png" class="img-fluid" alt="Nullb3 Screen">
+                    </div>
+                    <div class="col-md-6">
+                        <h2>Introducción</h2>
+                        <p>Bienvenido a mi portafolio de Progra Web! Estoy muy emocionado de poder compartir mis
+                            distintos proyectos y avances hasta la fecha contigo, espero que distrutes tu estadía por el
+                            sitio!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-12">
+                <div class="row align-items-center">
+                    <div class="col-md-6 order-md-1">
+                        <h2>Seccionamiento y Estilo</h2>
+                        <p>Como puedes observar, este pequeño portafolio está construido sobre un sitio web con
+                            distintas categorías de visita, este sitio web cuenta con el uso de Bootstrap como framework
+                            para CSS, un CSS de estilo para modificar aspectos más a fondo y HTML tradicional, además de
+                            algún que otro pequeño script.</p>
+                    </div>
+                    <div class="col-md-6 order-md-2">
+                        <img src="images/bootstrap.png" class="img-fluid" alt="Bootstrap Logo">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-12">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <img src="images/ulatina.jpg" class="img-fluid" alt="ULatina Logo">
+                    </div>
+                    <div class="col-md-6">
+                        <h2>Agradecimientos</h2>
+                        <p>Agradezco al profe Johan por la oportunidad de construir algo así como un laboratorio
+                            CheckPoint para hacer un repaso sobre la mitad de nuestro viaje por el curso, además de mis
+                            amigos y fundaciones como FreeCodeCamp que facilitan el aprendizaje de código.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Add more sections as needed -->
+    </div>
+
+
+
+
+    <footer class="footer-custom text-center p-5">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col"><a target="_blank"href="https://github.com/nullb3" class="text-decoration-none"> <i
+                            class="bi bi-github"></i> GitHub</a></div>
+                <div class="col"><a target="_blank"href="https://www.linkedin.com/in/armando-montiel-montes-🇨🇷-3138a2237/"
+                        class="text-decoration-none"> <i class="bi bi-linkedin"></i> LinkedIn</a></div>
+                <div class="col"><a target="_blank" href="https://www.instagram.com/xystmeister/" class="text-decoration-none"> <i
+                            class="bi bi-instagram"></i> Instagram</a></div>
+            </div>
+            <div class="row mt-3">
+                <div class="col">
+                    <img src="images/blessingcoin.gif" alt="Nullb3 Spin" height="100"
+                        class="d-inline-block align-text-top">
+                    <p class="text-white">© 2024 0b. Todos los derechos reservados.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

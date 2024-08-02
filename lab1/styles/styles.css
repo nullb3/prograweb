@@ -1,0 +1,137 @@
+.navbar {
+    background-color: #000000; /* Dark background color */
+}
+
+.navbar-nav .nav-link {
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.navbar-nav .nav-link:hover {
+    color: yellow; /* Change to the glowing color you prefer */
+}
+
+.carousel-item {
+    border: none !important;
+    box-shadow: none !important;
+    position: relative;
+}
+
+.carousel-inner {
+    border: none !important;
+}
+
+.carousel-indicators button {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none; /* Remove border from buttons */
+    width: 15px; /* Adjust button width if needed */
+    height: 15px; /* Adjust button height if needed */
+}
+
+.carousel-indicators .active {
+    background-color: white !important; /* Ensure white background for active button */
+}
+
+.carousel-item img {
+    object-fit: cover;
+    width: 100%;
+    height: 450px; /* Set the height of carousel images */
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 45%;
+    left: 10%; /* Adjust as needed */
+    transform: translateY(-50%);
+    text-align: left;
+    z-index: 2;
+    width: 50%; /* Half of the carousel-item width */
+}
+
+.carousel-caption .text-overlay {
+    padding-right: 20%; /* Adjust as needed to create space for the overlay image */
+}
+
+.carousel-caption h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+.overlay-image {
+    position: absolute;
+    top: 50%;
+    left: 80%; /* Adjust as needed */
+    transform: translate(-50%, -50%);
+    max-width: 40%; /* Adjust size as needed */
+    z-index: 3;
+}
+
+.overlay-image.circle-image {
+    max-width: 30%; /* Smaller size for circle image */
+    border-radius: 50%;
+    object-fit: cover; /* Ensure the image maintains its aspect ratio */
+    width: 30%; /* Ensure the image width is smaller */
+    height: auto; /* Adjust the height automatically */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity as needed */
+    z-index: 1;
+}
+
+.content-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.content-section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    border-radius: 10px;
+}
+
+.content-section h2 {
+    margin-top: 40px;
+}
+
+.content-section p {
+    font-size: 1.2em;
+    color: #ccc;
+}
+
+footer a {
+    color: #ccc;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+.footer-custom {
+    background-color: #000000; /* Change this to your desired footer color */
+}
+
+.code-section {
+    background-color: #000;
+    color: #6ff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.code-section h2 {
+    color: #6ff;
+}
+
+.code-section pre {
+    background-color: #111;
+    color: #6ff;
+    padding: 15px;
+    border-radius: 8px;
+}

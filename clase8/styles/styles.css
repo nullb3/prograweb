@@ -1,0 +1,134 @@
+/*Selector por etiquetas HTML
+No se suele usar.
+*/
+
+h1{
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: center;
+    color: blueviolet;
+}
+div p{
+    color: deepskyblue;
+}
+
+/*Selector por IDs
+Un solo item, es raro de ver
+*/
+
+#Parrafo1{
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+#Parrafo2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+
+/*Selector por clases HTML
+Mucho más común
+*/
+
+.Parrafo3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(0, 0, 255);
+    background-color: aquamarine;
+}
+
+.Noticias{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 255, 174);
+}
+
+.Anuncios{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(0, 255, 255);
+}
+
+.Capsule{
+    color: rgb(0, 255, 0);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.borderClass{
+    border: 10px rgb(25, 255, 55) solid;
+    border-radius: 5px;
+    color: rgb(255, 255, 76);
+    text-align: center;
+}
+
+.marginClass{
+    border: 50px double;
+    border-radius: 25px;
+    border-color: red;
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.superCube{
+    background-color: cyan;
+    color: blanchedalmond;
+    margin: 10px;
+    padding: 10px;
+    border: solid;
+    height: 100px;
+    width: 100px;
+    overflow: scroll;
+}
+
+.centeredText{
+    color: red;
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
+
+a:visited{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:active{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Table{
+    width:100%;
+    text-align: center;
+    color: red;
+    border: solid;
+    background-color: yellow;
+}
+
+th{
+    background-color: blue;
+}
+
+td{
+    background-color: lightskyblue;
+}
+td:nth-child(odd){
+    background-color: lightskyblue;
+}
+td:hover{
+    background-color: green;
+    cursor: pointer;
+}
+
+*{
+    /*El asterisco tiene prioridad minima*/
+    background-color: black;
+}

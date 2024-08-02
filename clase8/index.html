@@ -1,0 +1,274 @@
+<!DOCTYPE html> <!--Indicates that this is an HTML5 page, without plugins-->
+<html lang="en"> <!--Indicates the page language-->
+<html> <!--Dictates that this is an HTML file-->
+
+<head>
+    <title>PrograWeb Semana 8</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        /*Codigo CSS*/
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">NullPets</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Dropdown
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="#">NEW OPTION</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+
+    <!--Carousel-->
+
+    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="styles/1.jpg" class="d-block w-100" alt="A cute dog first." style="height: 400px;">
+            </div>
+            <div class="carousel-item">
+                <img src="styles/2.jpg" class="d-block w-100" alt="A cute dog second." style="height: 400px;">
+            </div>
+            <div class="carousel-item">
+                <img src="styles/3.jpg" class="d-block w-100" alt="A cute dog third." style="height: 400px;">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <br></br>
+
+    <!--Tarjetas-->
+
+    <div class="container mt-5 d-none d-md-block">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="styles/4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Tarjeta Perruna 1</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="styles/4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Tarjeta Perruna 2</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="styles/4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Tarjeta Perruna 3</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br></br>
+
+    <!--Tarjetas Horizontales-->
+    <div class="container mt-5 d-none d-md-block">
+        <div class="row">
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="styles/vet1.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Perfil Veterinario 1</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural
+                                lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="styles/vet1.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Perfil Veterinario 2</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Perfil Veterinario 3</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="styles/vet1.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <h6>
+            <marquee class="Capsule" behavior="alternate">
+                .-""`""-.<br>_/`oOoOoOoOo`\_<br>'.-=-=-=-=-=-=-.'<br>`-=.=-.-=.=-'<br>^ ^ ^</marquee>
+        </h6>
+    </div>
+    <p id="Parrafo1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ex est non voluptates. Delectus
+        quaerat voluptatibus illum vel, itaque doloribus modi quis perferendis nemo magnam cupiditate ad ipsam culpa
+        amet?</p>
+    <p id="Parrafo2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ex est non voluptates. Delectus
+        quaerat voluptatibus illum vel, itaque doloribus modi quis perferendis nemo magnam cupiditate ad ipsam culpa
+        amet?</p>
+    <p class="Parrafo3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ex est non voluptates.
+        Delectus quaerat voluptatibus illum vel, itaque doloribus modi quis perferendis nemo magnam cupiditate ad ipsam
+        culpa amet?</p>
+    <hr>
+    <div class="Noticias">
+        <p>Parrafo de Noticias</p>
+    </div>
+    <div class="Anuncios">
+        <p>Parrafo de Anuncios</p>
+    </div>
+    <hr>
+    <div>
+        <h2 class="borderClass">Hi</h2>
+        <h2 class="marginClass">Hi</h2>
+        <p class="superCube">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ratione earum dolor
+            optio consequuntur enim totam architecto culpa ullam delectus illo voluptate asperiores maiores veniam,
+            suscipit esse omnis quisquam reprehenderit.</p>
+        <h1 class="centeredText">TheHouse</h1>
+        <a href="https://www.ulatina.ac.cr">Click Aca</a>
+    </div>
+    <hr>
+    <table class="Table">
+        <tr></tr>
+        <tr>
+            <th>ID</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Mouse</td>
+            <td>5000</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Teclado</td>
+            <td>15000</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Pantalla</td>
+            <td>80000</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>GPU</td>
+            <td>250000</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>SSD</td>
+            <td>35000</td>
+        </tr>
+    </table>
+    <footer>
+        <div class="container-fluid bg-dark p-5 text-center">
+            <div class="row">
+                <div class="col"><a href="#" class="text-decoration-none text-sucess"> <i
+                            class="bi bi-whatsapp"></i>WHATSAPP</a></div>
+                <div class="col"><a href="#" class="text-decoration-none text-sucess"> <i
+                            class="bi bi-facebook"></i>FACEBOOK</a></div>
+                <div class="col"><a href="#" class="text-decoration-none text-sucess"> <i
+                            class="bi bi-instagram"></i>INSTAGRAM</a></div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
